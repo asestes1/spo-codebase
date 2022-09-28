@@ -1,0 +1,5 @@
+{
+    "modeltype":"transport",
+    "numsrc": [10],
+    "numdest": [10]
+}

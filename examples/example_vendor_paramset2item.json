@@ -1,0 +1,19 @@
+{
+    "modeltype": "vendor",
+    "budget": 648.0,
+    "volume": 207.0,
+    "buy_costs": [
+        1.0,
+        5.0,
+    ],
+    "sell_costs": [
+        10.0,
+        50.0,
+    ],
+    "salvage_values": [
+        0.0,
+        0.0,
+        0.0
+    ]
+    
+}

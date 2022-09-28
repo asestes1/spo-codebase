@@ -1,0 +1,28 @@
+{
+    "trainsetsize": 100000,
+    "validationsetsize": 0,
+    "testsetsize": 50,
+    "numsets": 10,
+    "sidedim": 3,
+    "paramdim": 2,
+    "model": {
+        "type": "uniform",
+        "betabd": [
+            0,
+            1
+        ],
+        "alphabd": [
+            0,
+            1
+        ],
+        "sidebd": [
+            0,
+            1
+        ],
+        "noisebd": [
+            0,
+            0
+        ],
+        "power": 1
+    }
+}

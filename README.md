@@ -1,0 +1,2 @@
+This contains code used for the paper:
+Estes and Richard (2022) Smarter Predict-Then-Optimize for Two-Stage Linear Programs with Side Information. Currently under review at INFORMS Journal on Optimization.

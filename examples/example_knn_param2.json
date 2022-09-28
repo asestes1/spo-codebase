@@ -1,0 +1,11 @@
+{
+    "tuningmethod": "validate",
+    "validationprop": 0.20,
+    "possiblevals": [
+        1,
+        2,
+        5,
+        10,
+        100
+    ]
+}
